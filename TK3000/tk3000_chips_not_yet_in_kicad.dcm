@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 6502
+D MOS Technology 6502 processor
+K CPU
+$ENDCMP
+#
+#End Doc Library
